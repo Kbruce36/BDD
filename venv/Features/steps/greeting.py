@@ -1,6 +1,5 @@
 from behave import *
 
-
 @given('the user is on the homepage')
 def step_user_is_on_the_homepage(context):
     #here you can put the navigation to the homepage
